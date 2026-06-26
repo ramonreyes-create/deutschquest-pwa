@@ -1,0 +1,22 @@
+{
+  "name": "DeutschQuest",
+  "short_name": "DeutschQuest",
+  "description": "Deine Reise durch die deutschsprachige Welt – Deutschprofis Wortschatz Trainer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f623f",
+  "theme_color": "#0f623f",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
